@@ -1,2 +1,2 @@
 # Analisis-Sentimen-Ulasan-di-Google-Maps
-ANALISIS SENTIMEN ULASAN DI GOOGLE MAPS MENGGUNAKAN METODE SUPPORT VECTOR MACHINE DENGAN SELEKSI FITUR MUTUAL INFORMATION DAN CHI SQUARE UNTUK REKOMENDASI DESTINASI TEMPAT PARIWISATA DI KOTA YOGYAKARTA
+Analisis Sentimen Ulasan di Google Maps menggunakan Metode Support Vector Machine dengan Seleksi Fitur Mutual Information dan Chi Square untuk Rekomendasi Destinasi Tempat Pariwisata di Kota Yogyakarta
